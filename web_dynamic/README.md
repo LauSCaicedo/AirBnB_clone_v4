@@ -1,17 +1,19 @@
 <h1> AirBnB clone - Web dynamic 🎡</h1>
 <h2> Learning Objectives </h2>
 <p> At the end of this project, you are expected to be able to explain to anyone, without the help of Google: </p>
-<br/>
+
 <h2>General</h2>
 <ul>
-🌿 How cool it is to request your own API
-🌿 How to modify an HTML element style
-🌿 How to get and update an HTML element content
-🌿 How to modify the DOM
-🌿 How to make a GET request with JQuery Ajax
-🌿 How to make a POST request with JQuery Ajax
-🌿 How to listen/bind to DOM events
-🌿 How to listen/bind to user events
+<li> 🌿 How cool it is to request your own API </li>
+<li> 🌿 How to modify an HTML element style </li>
+<li> 🌿 How to modify an HTML element style </li>
+<li> 🌿 How to modify an HTML element style </li>
+<li> 🌿 How to get and update an HTML element content </li>
+<li> 🌿 How to modify the DOM </li>
+<li> 🌿 How to make a GET request with JQuery Ajax </li>
+<li> 🌿 How to make a POST request with JQuery Ajax </li>
+<li> 🌿 How to listen/bind to DOM events </li>
+<li> 🌿 How to listen/bind to user events </li>
 </ul>
 
 <img src = "https://5.imimg.com/data5/SELLER/Default/2021/7/EB/WQ/MZ/39788110/professional-website-design-in-mumbai-bandra-250x250.png" height = auto max-width = 100%>
