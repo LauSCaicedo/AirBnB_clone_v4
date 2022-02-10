@@ -160,5 +160,12 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
+
+-------------------------------------------------------------------------------
+## Collaborators
+
+Shirley Cárcamo - [Github](https://github.com/Shirley-Patricia) / [Twitter](https://twitter.com/Shirley45125098)
+Laura Caicedo - [Github](https://github.com/LauSCaicedo) / [Twitter](https://twitter.com/LauSCaicedo)
+
 ## License
 Public Domain. No copy write protection. 
