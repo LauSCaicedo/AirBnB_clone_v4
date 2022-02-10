@@ -15,9 +15,8 @@
 <li> 🌿 How to listen/bind to DOM events </li>
 <li> 🌿 How to listen/bind to user events </li>
 </ul>
-
-<img src = "https://5.imimg.com/data5/SELLER/Default/2021/7/EB/WQ/MZ/39788110/professional-website-design-in-mumbai-bandra-250x250.png" height = auto max-width = 100%>
 <br/>
+<img src = "https://5.imimg.com/data5/SELLER/Default/2021/7/EB/WQ/MZ/39788110/professional-website-design-in-mumbai-bandra-250x250.png" height = auto max-width = 200%>
 
 <h2> Contributors <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 Shirley Cárcamo <a href = 'https://twitter.com/Shirley45125098'> <img width = '32px' src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"/></a> <br>
